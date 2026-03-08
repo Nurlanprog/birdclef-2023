@@ -1,0 +1,10 @@
+cupy-cuda12x
+numpy
+pandas
+librosa
+tqdm
+torch
+timm
+scikit-learn
+accelerate
+matplotlib
